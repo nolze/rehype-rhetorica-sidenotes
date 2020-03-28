@@ -1,0 +1,15 @@
+{
+  "name": "@rhetorica-css/rehype-sidenotes",
+  "description": "A handler for remark-rehype to show footnotes as sidenotes with rhetorica.css ",
+  "version": "0.1.0",
+  "author": "nolze",
+  "dependencies": {
+    "unist-builder": "^2.0.3"
+  },
+  "license": "MIT",
+  "main": "index.js",
+  "repository": "https://github.com/nolze/rehype-rhetorica-sidenotes",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
